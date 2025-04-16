@@ -490,7 +490,7 @@ class FTMPAdvertisement(Advertisement):
         self.add_service_uuid(HeartRate.HEART_RATE)
 
         #self.add_local_name("S4 Comms PI")
-        self.add_local_name("PiRowFlo")
+        self.add_local_name("ble_test")
         self.include_tx_power = True
 
 
